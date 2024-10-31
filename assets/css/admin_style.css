@@ -1,0 +1,38 @@
+.settings_elementor_form {
+
+}
+
+.settings_elementor_form {
+    padding: 20px;
+}
+
+.settings_elementor_form .row div {
+    display: inline-flex;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.settings_elementor_form .row div label{
+    color: black;
+    font-size: 14px;
+    font-weight: 500;
+    width: 20%;
+}
+
+.settings_elementor_form .row div input{
+    margin-left: 5px;
+    width: 40%;
+}
+
+.settings_elementor_form .row div button{
+    background-color: #5874a8;
+    border: none;
+    color: white;
+    padding: 6px 20px;
+    margin-left: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;}
+
+
